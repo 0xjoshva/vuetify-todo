@@ -94,6 +94,7 @@
       }
 
       this.tasks.push(newTask)
+      console.log(newTask)
     }
   }
  }
